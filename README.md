@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DEV_NS
+- 👋 @DEV_NS
+- It's where you record what you've learned.
 
-- 👀 I’m interested in C++,C#,C
+- 👀 Language - C++,C#,C
 
 - 📫 How to reach me - Discord : SV#4966
 
